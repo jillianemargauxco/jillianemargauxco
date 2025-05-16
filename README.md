@@ -62,6 +62,6 @@ Welcome to my GitHub! I’m a passionate and driven tech creative with a strong 
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/jilliane-ellos)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jilliane-elloso)  
 - 🖼️ [Portfolio](https://www.datascienceportfol.io/jillianeelloso)
 - ✉️ Email: jilliane_elloso@gmail.com
